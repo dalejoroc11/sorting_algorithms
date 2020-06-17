@@ -1,9 +1,9 @@
 #include "sort.h"
 /**
- * bubble_sort - sorts array in ascending order
- * @array : array whit pointer
- * @size : size int
- */
+  * bubble_sort - sorts array in ascending order
+  * @array : array whit pointer
+  * @size : size int
+  */
 void bubble_sort(int *array, size_t size)
 {
 size_t i, j;
